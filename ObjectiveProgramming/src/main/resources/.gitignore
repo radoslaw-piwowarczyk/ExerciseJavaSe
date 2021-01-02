@@ -16,7 +16,7 @@
 *.rar
 *.iml
 
-.idea/
+../../../../.idea/
 target/
 
 hs_err_pid*
