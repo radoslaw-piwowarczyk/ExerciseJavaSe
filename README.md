@@ -1,4 +1,5 @@
 # ExerciseJavaSe
+
 /**
  * Write a program that will consist of several classes.
  *
@@ -15,3 +16,4 @@
  *
  * PLN 55,200 - because 12 * 1000 + 12 * (3000 + 0.2 * 3000) = 55200, where 3000 is the net payment, and 1000 is the cost of ZUS
  */
+
