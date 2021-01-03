@@ -1,5 +1,8 @@
-
-Write a program in which you add together three floating-point numbers and display the sum on the screen. Write the program in two versions:
-
--without using variables
--using variables to hold numbers and the result of an addition
+# ExerciseJavaSe
+        /** Please correct the code below so that the result is displayed on the screen.
+         int x = 10;
+         int y = 4;
+         int div = x / y;
+         System.out.println(div);
+         Expected result is 2.5
+        **/
