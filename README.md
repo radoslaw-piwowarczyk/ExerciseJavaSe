@@ -1,8 +1,7 @@
 # ExerciseJavaSe
-        /** Please correct the code below so that the result is displayed on the screen.
-         int x = 10;
-         int y = 4;
-         int div = x / y;
-         System.out.println(div);
-         Expected result is 2.5
-        **/
+
+ /** Write a program that will display the word CAT on the screen.
+    You cannot use a single quotation mark or single single
+    quotation mark in the program
+     **/
+
