@@ -1,4 +1,5 @@
 # ExerciseJavaSe
+
 /**
  * Define a Convertible class representing a car with an opening roof. The car should store
  * information about the name, brand, but also whether it is currently in motion and whether
