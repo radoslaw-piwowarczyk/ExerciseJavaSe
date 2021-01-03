@@ -1,4 +1,4 @@
-# ExerciseJavaSe
+
 /**
  * Define a Bartender class that has a createDrink method that takes names as arguments and the amount
  * of 3 ingredients needed to prepare a drink. As a result, the method should return an object of the
