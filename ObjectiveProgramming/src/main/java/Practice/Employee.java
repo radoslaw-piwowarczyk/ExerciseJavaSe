@@ -1,4 +1,4 @@
-# ExerciseJavaSe
+package Practice;
 
 /**
  * Write a program that will consist of several classes.
@@ -16,4 +16,38 @@
  *
  * PLN 55,200 - because 12 * 1000 + 12 * (3000 + 0.2 * 3000) = 55200, where 3000 is the net payment, and 1000 is the cost of ZUS
  */
+public class Employee {
+    private String firstName;
+    private String lastName;
+    private double salary;
 
+    public Employee(String firstName, String lastName, double salary) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.salary = salary;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public double getSalary() {
+        return salary;
+    }
+
+    public void setSalary(double salary) {
+        this.salary = salary;
+    }
+}
